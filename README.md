@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is Eugene and I'm a 2nd year Computer Engineering student at the University of Waterloo!
 
+My interests are in Machine Learning & Gaming (LoL)
+
 <!--
 **Eugenebaek/eugenebaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
